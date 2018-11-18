@@ -9,7 +9,7 @@ Pound -> Mixed white and Yellow colored coin = 135 pixels
 
 
 Sample Input Image
-![Screenshot](coins_4.jpg)
+![Screenshot](coins_5.jpg)
 
 
 
